@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"la6.cs1120.wmich.edu","l":"Decoder"},{"p":"la6.cs1120.wmich.edu","l":"Encoder"},{"p":"la6.cs1120.wmich.edu","l":"IDecoder"},{"p":"la6.cs1120.wmich.edu","l":"IEncoder"},{"p":"la6.cs1120.wmich.edu","l":"Main"}]

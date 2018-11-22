@@ -1,12 +1,15 @@
 package la6.cs1120.wmich.edu;
 
+import java.io.IOException;
+import java.io.RandomAccessFile;
+
 public class Decoder implements IDecoder {
 
-	@Override
 	/**
 	 * Will set pointer to location in the file based on the random integer after each
 	 * character and will print each character to the console.
 	 */
+	@Override
 	public void decode(String filePath) {
 		// TODO Auto-generated method stub
 		try {
